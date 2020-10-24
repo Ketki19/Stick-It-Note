@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["Stick it Notes/app.js","d6d6bc6b4d99205387311965878092ae"],["Stick it Notes/index.html","ccc4d99a08d2f0ff6be51d11bddaaa48"],["Stick it Notes/manifest.json","b0c0cacc3c06ea0ba958f8ac56925161"],["Stick it Notes/style.css","5ac7575804f9ae0a1ba255d395288c03"],["test/css/button.css","f4ec5328488a79e909ee78cca0efbde1"],["test/index.html","8053dacf89f5c53942be590eceb1748a"],["test/js/button.js","8d347bcabe6125d5097616d88839bb5d"],["test2/css/buttonGrid.css","df187e0d3edb305d11db400f753880c6"],["test2/index2.html","5b930d4fb21a4e7d240f0a749bee68af"],["test2/js/buttonGrid.js","84102f035a2cc10d36fef736307ee65d"],["test3/css/binaryCalculator.css","e92cdd89b8606b7e9543721aeb88e83f"],["test3/index3.html","41239f00ccfc49e98f6e145f7ec603de"],["test3/js/binaryCalculator.js","597ee41a37724d6da22cacf6a639e277"]];
+var precacheConfig = [["app.js","d6d6bc6b4d99205387311965878092ae"],["contract.png","0d47f145193e815da6f7537b2e0acfa5"],["favicon.ico","f3f70846cad486fc894f0d6145364266"],["index.html","936c351a625602eeec08c0b8d5d3217c"],["manifest.json","b0c0cacc3c06ea0ba958f8ac56925161"],["style.css","5ac7575804f9ae0a1ba255d395288c03"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
